@@ -1,38 +1,42 @@
-# 👋 Hey there, I'm Arpit!  
 
-<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-
-## 🌟 About Me  
-- 🔭 Currently working on: *Cloud Infrastructure* </br>
-- 🌱 Learning: *Machine Learning,FullStack Development and Linux*  
-- ⚡ Fun fact: I debug with ☕ + 🎶  
-- 🎨 Passionate about: *Beautiful UIs + Smart Backends* - 🎯 Goal: *Building impactful AI-driven applications*  
-- 📝 Occasionally write about: *Tech, Self-reflection and Learning Journeys*
----
+# ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=FFCC00&center=true&vCenter=true&width=1000&lines=When+Gotham+sleeps%2C+I+deploy.)
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://i.pinimg.com/736x/f0/7d/32/f07d32e7e7beb5839bde9418d27bcc43.jpg" alt="Profile Banner"  height="50%" />
+</p>
 
 
-████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
-████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
-███████████████████████████████████`.        ╙██████████████  ███████║█████╗  ██║     ██║     ██║   ██║
-████████████████████████████████▀  ¿▓▓▓▓▓▓▓▓▄/ "████████████  ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
-██████████████████████████████▀.  ▓▓▓▓▓▓▓▓▓▓▓▓   ▐██████████  ██║  ██║███████╗███████╗███████╗╚██████╔╝▄█╗
-██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓  ` ██████████  ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝
-██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓   ▄██████████
-▀██████████████████████████████▌  ▀▀▓▓▓▓▓▓▓▌╓╖. ████████████  ███╗   ██╗██╗ ██████╗███████╗  ████████╗ ██████╗
-█▄▀██████████████████████████████▄ ╩╦╙▀▀▀▀▀ ╣`,█████████████  ████╗  ██║██║██╔════╝██╔════╝  ╚══██╔══╝██╔═══██╗
-▄▀█▄╙█████████████████████▀▀▀▀█████▄▄ .... ,▄███████▀███████  ██╔██╗ ██║██║██║     █████╗       ██║   ██║   ██║
-██▄▀█▄╙█████████████████▀  ╪╢%╦══~╓,└ ╚▒▒▒ ╙▀|,╓╓═╤H   ▀████  ██║╚██╗██║██║██║     ██╔══╝       ██║   ██║   ██║
-█▀▀▀-▀█▌▄▀█████████████   ║▒▒▒▒▒▒▒▒▒▒╢╦ ╘ -╣▒▒▒▒▒▒▒▒▒╢╕   ▀█  ██║ ╚████║██║╚██████╗███████╗     ██║   ╚██████╔╝
-██▄▀██└║▄▄▄████████████▄          ═╕╕╕╕╕═╕═══════       ▄▄▄▄  ╚═╝  ╚═══╝╚═╝ ╚═════╝╚══════╝     ╚═╝    ╚═════╝
-████▄▀█▌║███  ████████▌         ╕   ╩▒▒▒▒▒▒▒▒▒Ñ          ███
-██████▌Ö▓▌   ▀██████████`╔▒▒╣ █ ▒▒m   ╚▒╢▒▒▒╩ -╣▒ ▌ ▒▒▒ ████  ███╗   ███╗███████╗███████╗████████╗  ██╗   ██╗ ██████╗ ██╗   ██╗
-████ -"" ∞╙,▀.╙▀███████╜ ▒▒▒ ▄█ Ñ   -   S.  ═▒▒▒▒ █ ║▒▒╕└███  ████╗ ████║██╔════╝██╔════╝╚══██╔══╝  ╚██╗ ██╔╝██╔═══██╗██║   ██║
-████████▄ -«   ∞▄.▀",╓═     ╒██   ═╣▒▒ `Ñ╛        █▌ ▒▒▒ ███  ██╔████╔██║█████╗  █████╗     ██║      ╚████╔╝ ██║   ██║██║   ██║
-█████████▌ º     ╤╣▒╣╩^",▄▄███▀  ▒▒╣"     ''''''' ▀▀     `██  ██║╚██╔╝██║██╔══╝  ██╔══╝     ██║       ╚██╔╝  ██║   ██║██║   ██║
-█████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
-▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
+<h3>Hey, I'm Arpit Shrivastava 👋</h3>
+      <p>Currently pursuing B.Tech in Information Technology from IIIT Sonepat. I love solving challenging problems, building scalable applications, and learning how systems work at scale.</p>
+      <p>I spend most of my time working on web applications, AI-powered tools, and projects that make life simpler. I also enjoy competitive programming and have solved 500+ problems across various platforms.</p>
+      <p>When I’m not coding, you’ll probably find me reading, hitting the gym, or diving into psychology & philosophy. 🚀</p>
+  </div>
+</div>
 
----
+<br>
+
+## Profiles
+
+| Platform | Profile |
+|----------|---------------|
+| ![Leetcode](https://img.shields.io/badge/Leetcode-%230f1d26.svg?style=for-the-badge&logo=leetcode&logoColor=yellow)  | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="LeetCode" width="30"/>](https://leetcode.com/u/arpit1892004/) |
+| ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%23009443.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white) | [<img src="https://cdn-1.webcatalog.io/catalog/geeksforgeeks/geeksforgeeks-icon-filled-256.png" alt="GeeksForGeeks" width="30"/>](https://www.geeksforgeeks.org/user/arpit18x2jx/?_gl=1*19vmusx*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjwrc7GBhCfARIsAHGcW5VQRoN7UDMXVG2ZhOh0h2mMbDz7yq64FXRji_NRKfSB1J-GtinKY7QaArBVEALw_wcB&gbraid=0AAAAAC9yBkDSDdliC4Od3KEr0beqK3QPU) |
+| ![Codechef](https://img.shields.io/badge/CodeChef-%231c2b34.svg?style=for-the-badge&logo=codechef&logoColor=white) | [<img src="https://www.codechef.com/favicon.ico" alt="Codechef" width="30"/>](https://www.codechef.com/users/arpit189) |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-%232ec866.svg?style=for-the-badge&logo=hackerrank&logoColor=black) | [<img src="https://hrcdn.net/fcore/assets/brand/hr_logo_new_icon_white-21c4c919d4.svg" alt="HackerRank" width="30"/>](https://www.hackerrank.com/profile/arpit1892004) |
+| ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) | [<img src="https://github.githubassets.com/favicons/favicon.svg" alt="GitHub" width="30"/>](https://github.com/arpit189) |
+
+<br>
+
+## 🛠 Projects
+
+| Project Title | Description | Live | Repo |
+|---------------|-------------|-----------|-----------|
+| **VisionFlux (AI Image Transformation SaaS)** | AI SaaS app with 10,000+ monthly transformations, <500ms latency, Stripe credits & MongoDB Atlas search. | [![](https://skillicons.dev/icons?i=nextjs)](https://vision-flux.vercel.app/) | [![](https://skillicons.dev/icons?i=github)](https://github.com/arpit189/VisionFlux) |
+| **WeTawk (Real-Time Chat App)** | A MERN-based scalable chat app for 1000+ users with Socket.io, JWT auth, and lazy-loading optimizations. | [![](https://skillicons.dev/icons?i=react)](https://we-tawk.vercel.app/) | [![](https://skillicons.dev/icons?i=github)](https://github.com/arpit189/WeTawk) |
+| **CompanyWise (LeetCode Company Finder)** | Chrome extension to find company tags & frequency for LeetCode problems. Uses caching & APIs for speed. | [![](https://skillicons.dev/icons?i=javascript)](https://leetcode.com) | [![](https://skillicons.dev/icons?i=github)](https://github.com/arpit189/CompanyWise) |
+
+<br>
+
 
 ## 🚀 Tech Stack  
 ### 🖥 Languages & Frameworks  
