@@ -7,9 +7,9 @@
 
 
 <h3>Hey, I'm Arpit Shrivastava 👋</h3>
-      <p>Currently pursuing B.Tech in Information Technology from IIIT Sonepat. I love solving challenging problems, building scalable applications, and learning how systems work at scale.</p>
+      <p>I love solving challenging problems, building scalable applications, and learning how systems work at scale.</p>
       <p>I spend most of my time working on web applications, AI-powered tools, and projects that make life simpler. I also enjoy competitive programming and have solved 500+ problems across various platforms.</p>
-      <p>When I’m not coding, you’ll probably find me reading, hitting the gym, or diving into psychology & philosophy. 🚀</p>
+      
   </div>
 </div>
 
